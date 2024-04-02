@@ -1,0 +1,20 @@
+.icon p{
+    text-transform: uppercase;
+    font-weight: 900;
+    font-size: 18px;
+    letter-spacing: 2px;
+    color: rgb(0, 0, 0);
+}
+.nav-btn{
+    margin: 0px 20px;
+    color: rgb(0, 0, 0);
+    /* border: 2px solid rgb(0, 0, 0); */
+    padding: 10px;
+    cursor: pointer;
+
+}
+
+.navbar{
+    background-color: orange;
+}
+

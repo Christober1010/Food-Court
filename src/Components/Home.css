@@ -1,0 +1,38 @@
+.card-title{
+    color: rgb(255, 166, 0);
+}
+.card{
+    border: 2px solid white;
+    cursor: pointer;
+}
+.card:hover{
+    scale:0.98 ;   
+    box-shadow: 5px 5px 10px rgb(255, 153, 0) ;
+    
+}
+.card-body{
+    border-radius: 0px 0px 10px 10px;
+}
+::-webkit-scrollbar{
+    background-color: rgb(7, 5, 0);
+    width: 5px;
+}
+::-webkit-scrollbar-track{
+    background-color: rgb(0, 0, 0);
+}
+::-webkit-scrollbar-thumb{
+    background-color: rgb(1, 251, 238);
+}
+.product-cart{
+    background-color: burlywood;
+    height: 300px;
+}
+.form-control{
+    border: 2px solid black;
+}
+.owl-theme{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
